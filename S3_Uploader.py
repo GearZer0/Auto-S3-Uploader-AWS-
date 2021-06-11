@@ -1,3 +1,5 @@
+# https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html#using-boto3
+
 import os
 import boto3
 
